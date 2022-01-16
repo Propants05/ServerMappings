@@ -1389,4 +1389,14 @@
             "betterpvp.club"
         ]
     }
+    {
+        "id": "soundcraft",
+        "name": "SoundCraft",
+        "addresses": [
+            "soundcraft.it"
+            "play.soundcraft.it"
+            "mc.soundcraft.it"
+            "pe.soundcraft.it"
+        ]
+    }
 ]
